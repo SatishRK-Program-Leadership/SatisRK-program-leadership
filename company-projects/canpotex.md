@@ -1,0 +1,4 @@
+- Microsoft Cloud tools adoption
+- SAP SCM integration
+- Office 365 reporting
+- Agile and waterfall delivery

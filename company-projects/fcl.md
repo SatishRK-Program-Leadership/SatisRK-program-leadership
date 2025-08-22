@@ -1,0 +1,4 @@
+- CO-OP Digital Workplace program
+- People Forward Program
+- Customer experience improvements
+- Agile delivery and tool adoption

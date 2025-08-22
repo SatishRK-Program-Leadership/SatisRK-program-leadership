@@ -1,0 +1,4 @@
+- DSCSA-FDA-ERP compliance
+- AWS migration and automation
+- SAP-HANA integration
+- Psychological safety initiatives

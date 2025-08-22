@@ -1,0 +1,2 @@
+- Disciplined Agile Methodology
+- SCRUM Fundamentals Certified

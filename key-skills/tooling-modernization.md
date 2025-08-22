@@ -1,0 +1,3 @@
+- Migrated legacy systems to SAP, AWS, Office 365
+- Improved reporting accuracy
+- Reduced downtime by 40%

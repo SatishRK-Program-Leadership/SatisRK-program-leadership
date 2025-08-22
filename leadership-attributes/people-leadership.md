@@ -1,0 +1,3 @@
+- Managed teams of 40+ professionals
+- Mentorship programs increased engagement by 20%
+- Fostered psychological safety and innovation

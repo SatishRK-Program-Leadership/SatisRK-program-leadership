@@ -1,0 +1,3 @@
+- Agile adoption across 300+ locations
+- Reduced project timelines by 20%
+- Achieved 95% tool/process adoption

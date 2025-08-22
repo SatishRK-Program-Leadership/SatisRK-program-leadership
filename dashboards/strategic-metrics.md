@@ -1,0 +1,4 @@
+- Program Success Rate: 90%+
+- Budget Efficiency: Delivered 10% under budget
+- Global Reach: Managed programs across 10+ countries
+- Stakeholder Alignment: 95%+ alignment in QBRs and SLT meetings

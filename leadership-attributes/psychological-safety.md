@@ -1,0 +1,3 @@
+- Open forums and feedback channels
+- Culture of trust and openness
+- Improved innovation metrics

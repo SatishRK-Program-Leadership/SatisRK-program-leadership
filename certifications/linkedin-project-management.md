@@ -1,0 +1,2 @@
+- LinkedIn PM Certifications
+- 30+ certifications on PMO Leadership, SCM, Global Delivery

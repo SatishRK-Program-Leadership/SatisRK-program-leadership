@@ -1,0 +1,4 @@
+- Oracle EBS R12.2.12 transformation
+- Retired 70+ legacy customizations
+- Standardized revenue accounting
+- PMO tooling modernization
